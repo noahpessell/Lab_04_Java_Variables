@@ -25,7 +25,6 @@ public class Main
         double shoeSize = 0;
         String birthMonth = "";
         String fullName = "";
-
         //ints
         intSum = intOperandA + intOperandB;
         System.out.println("The sum using ints of " + intOperandA + " and " + intOperandB + " is " + intSum);
