@@ -18,13 +18,13 @@ public class Main
         double doubleDifference = 25.67;
         double doubleQuotient = 34.81;
         double doubleModulo = 45.23;
-        int familyKids = 0;
-        boolean raining = false;
-        double gallonGasPrice = 0.00;
+        int kidCount = 3;
+        boolean isRaining = false;
+        double gallonGasPrice = 3.29;
         int favoriteNumber = 6;
-        double shoeSize = 0;
-        String birthMonth = "";
-        String fullName = "";
+        double shoeSize = 11.5;
+        String birthMonth = "April";
+        String fullName = "Noah Wayne Pessell";
         //ints
         intSum = intOperandA + intOperandB;
         System.out.println("The sum using ints of " + intOperandA + " and " + intOperandB + " is " + intSum);
